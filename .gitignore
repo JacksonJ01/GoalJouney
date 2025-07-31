@@ -13,6 +13,7 @@ build/
 dist/
 
 # Variables
+.env
 *.env
 *.env*
 !*.env.example
